@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devpoisons
 - 👀 I’m interested in android, windows and web development
-- 🌱 I’m currently learning JS, java, databases, python framework - kivy
+- 🌱 I’m currently learning JS, java, databases, python framework - kivy,Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on my email devpoison@outlook.com
 
