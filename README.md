@@ -12,7 +12,7 @@ Hi there! I'm a Computer Science student and an aspiring Software Engineer with 
 ![](https://github-readme-stats.vercel.app/api?username=EllyEroms7&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EllyEroms7&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EllyEroms7&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://streak-stats.demolab.com?user=EllyEroms&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
 
 
 
