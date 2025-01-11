@@ -1,4 +1,4 @@
-## Hi, I'm Elliot
+## Hi, I'm Elliot Otoijagha
 
 # 💫 About Me:
 Hi there! I'm a Computer Science student and an aspiring Software Engineer with a passion for bringing 3D designs to life on the web. This year, I'm leveling up by diving into backend development—because what's a good 3D web app without a solid foundation🤷🏻‍♂️? When I'm not coding, I’m probably dreaming up new ways to make beautiful 3d scenes. Let’s create something awesome!
